@@ -36,6 +36,6 @@ function handleInput() {
     input.classList.remove("error");
   } else {
     input.classList.add("error");
-    input.classList.remove("succeess");
+    input.classList.remove("success");
   }
 }
